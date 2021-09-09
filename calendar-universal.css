@@ -1,4 +1,15 @@
-.hero-overlay[_ngcontent-app-id-c192] {
+.hero-overlay {
     background-color: #dcefff !important;
     opacity: 1; 
+
 }
+.headline{
+    color: #0f4c81 !important;
+    font-family: Neutra Display Titling,sans-serif;
+    font-size: 37px !important;
+    -webkit-hyphens: auto;
+    -ms-hyphens: auto;
+    hyphens: auto;
+    line-height: 1;
+    margin: 0 0 2rem;
+    text-align: left;
